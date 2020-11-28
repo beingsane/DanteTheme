@@ -1,1 +1,1 @@
-# DanteTheme
+# DanteTheme Vscode

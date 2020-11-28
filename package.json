@@ -1,0 +1,22 @@
+{
+    "name": "dantetheme",
+    "displayName": "DanteTheme",
+    "description": "Theme based on Divine Comedy",
+    "publisher": "dantetheme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DanteTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DanteTheme-color-theme.json"
+            }
+        ]
+    }
+}
