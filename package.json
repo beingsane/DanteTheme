@@ -2,8 +2,13 @@
     "name": "dantetheme",
     "displayName": "DanteTheme",
     "description": "Theme based on Divine Comedy",
-    "publisher": "dantetheme",
+    "publisher": "DanteTheme",
     "version": "0.0.1",
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/peidrao/DanteTheme"
+    },
     "engines": {
         "vscode": "^1.51.0"
     },
