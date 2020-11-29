@@ -2,7 +2,7 @@
 	"name": "DanteTheme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#262b30",
+		"editor.background": "#20212b",
 		"editor.foreground": "#d8ebfc",
 		"activityBarBadge.background": "#fc686f",
 		
@@ -19,6 +19,33 @@
 		"sideBar.foreground": "#fffcfc",
 		"sideBarTitle.foreground": "#fc686f",
 		"sideBarSectionHeader.background": "#455d7a",		
+		/* EditorGroup */
+		"editorGroup.border":"#fc686f",
+		"editorGroup.dropBackground": "#4ea8de",
+		"editorGroupHeader.noTabsBackground": "#4ea8de",
+		"editorGroupHeader.tabsBackground":"#455d7a",
+		"editorGroupHeader.tabsBorder": "#4ea8de",
+		"tab.activeBackground": "#455d7a",
+		"tab.activeForeground":"#fffcfc",
+		"tab.border": "#3f4752",
+		"tab.activeBorder": "#52b788",
+  		"tab.inactiveBackground": "#3f4752",
+		"tab.inactiveForeground":"#b0b7c2",
+		/* Editor Colors */
+		"editorLineNumber.foreground":"#fffcfc",
+		"editorCursor.foreground": "#52b788",
+		"editor.selectionBackground": "#52b78863",
+		"editor.selectionHighlightBackground": "#fc686f85",
+		/* Status bar colors */
+		"statusBar.background": "#3bceac",                                               
+  		"statusBar.foreground": "#2d3142",                                                     
+  		"statusBar.debuggingBackground": "#2d3142",                                           
+  		"statusBar.debuggingForeground": "#3bceac",                                                                                                                       
+  		"statusBarItem.activeBackground": "#358b77",                                      
+  		"statusBarItem.hoverBackground":  "#358b77",                                               
+  		"statusBarItem.prominentBackground": "#358b77",                                                                      
+  		"statusBarItem.remoteForeground": "#3bceac",                                           
+  		"statusBarItem.remoteBackground": "#2d3142",                                       
 	},
 	"tokenColors": [
 		{
