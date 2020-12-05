@@ -140,7 +140,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#9df2e7"
+				"foreground": "#e8e8e8"
 			}
 		},
 		{
@@ -175,8 +175,8 @@
 				"keyword.other"
 			],
 			"settings": {
-				"fontStyle": "bold",
-				"foreground": "#f54548"
+				"fontStyle": "italic",
+				"foreground": "#28abb9"
 			}
 		},
 		{
@@ -191,7 +191,8 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#f69536"
+				"fontStyle": "italic bold",
+				"foreground": "#ee6f57"
 			}
 		},
 		{
@@ -272,7 +273,7 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#3cff00"
+				"foreground": "#38f100"
 			}
 		},
 		{
