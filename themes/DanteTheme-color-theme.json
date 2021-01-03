@@ -5,7 +5,6 @@
 		"editor.background": "#20212b",
 		"editor.foreground": "#d8ebfc",
 		"activityBarBadge.background": "#fc686f",
-		
 		"terminal.background": "#20252e",
 		"terminal.foreground": "#e1f4f3",
 		/* Activity Bar */
@@ -18,34 +17,34 @@
 		"sideBar.background": "#1b1f24",
 		"sideBar.foreground": "#fffcfc",
 		"sideBarTitle.foreground": "#fc686f",
-		"sideBarSectionHeader.background": "#455d7a",		
+		"sideBarSectionHeader.background": "#455d7a",
 		/* EditorGroup */
-		"editorGroup.border":"#fc686f",
+		"editorGroup.border": "#fc686f",
 		"editorGroup.dropBackground": "#4ea8de",
 		"editorGroupHeader.noTabsBackground": "#4ea8de",
-		"editorGroupHeader.tabsBackground":"#455d7a",
+		"editorGroupHeader.tabsBackground": "#455d7a",
 		"editorGroupHeader.tabsBorder": "#4ea8de",
 		"tab.activeBackground": "#455d7a",
-		"tab.activeForeground":"#fffcfc",
+		"tab.activeForeground": "#fffcfc",
 		"tab.border": "#3f4752",
 		"tab.activeBorder": "#52b788",
-  		"tab.inactiveBackground": "#3f4752",
-		"tab.inactiveForeground":"#b0b7c2",
+		"tab.inactiveBackground": "#3f4752",
+		"tab.inactiveForeground": "#b0b7c2",
 		/* Editor Colors */
-		"editorLineNumber.foreground":"#fffcfc",
+		"editorLineNumber.foreground": "#fffcfc",
 		"editorCursor.foreground": "#52b788",
 		"editor.selectionBackground": "#52b78863",
 		"editor.selectionHighlightBackground": "#fc686f85",
 		/* Status bar colors */
-		"statusBar.background": "#3bceac",                                               
-  		"statusBar.foreground": "#2d3142",                                                     
-  		"statusBar.debuggingBackground": "#2d3142",                                           
-  		"statusBar.debuggingForeground": "#3bceac",                                                                                                                       
-  		"statusBarItem.activeBackground": "#358b77",                                      
-  		"statusBarItem.hoverBackground":  "#358b77",                                               
-  		"statusBarItem.prominentBackground": "#358b77",                                                                      
-  		"statusBarItem.remoteForeground": "#3bceac",                                           
-  		"statusBarItem.remoteBackground": "#2d3142",                                       
+		"statusBar.background": "#3bceac",
+		"statusBar.foreground": "#2d3142",
+		"statusBar.debuggingBackground": "#2d3142",
+		"statusBar.debuggingForeground": "#3bceac",
+		"statusBarItem.activeBackground": "#358b77",
+		"statusBarItem.hoverBackground": "#358b77",
+		"statusBarItem.prominentBackground": "#358b77",
+		"statusBarItem.remoteForeground": "#3bceac",
+		"statusBarItem.remoteBackground": "#2d3142",
 	},
 	"tokenColors": [
 		{
@@ -85,7 +84,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#53ff9b"
 			}
 		},
 		{
@@ -116,7 +115,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#de6a6c"
+				"foreground": "#0400ff" /* Aspas, aspas duplas, colchetes, parenteses, chaves, return, from, import  */
 			}
 		},
 		{
@@ -127,7 +126,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#de6a6c"
+				"foreground": "#33ff00" /* Arquivos docker-compose, travis */
 			}
 		},
 		{
@@ -140,7 +139,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#e8e8e8"
+				"foreground": "#ff00b3" /* Arquivo dockerfile, funções  */
 			}
 		},
 		{
@@ -149,7 +148,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f69536"
+				"foreground": "#9e0000"
 			}
 		},
 		{
@@ -159,7 +158,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f000a8"
+				"foreground": "#ff7b00"
 			}
 		},
 		{
@@ -176,7 +175,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#28abb9"
+				"foreground": "#ffe600" /* Boleanos, constantes, parâmetros  */
 			}
 		},
 		{
@@ -192,7 +191,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic bold",
-				"foreground": "#ee6f57"
+				"foreground": "#00b7ff" /* Primeiro parâmetro de objeto, conteudo do docker */
 			}
 		},
 		{
@@ -208,7 +207,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#71bdff"
+				"foreground": "#15ff00" /* Nome da classe */
 			}
 		},
 		{
@@ -218,7 +217,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold italic",
-				"foreground": "#d43246"
+				"foreground": "#00ff62"
 			}
 		},
 		{
@@ -232,7 +231,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#f3ebe9",
+				"foreground": "#f8cbda", /* Variáveis css */
 			}
 		},
 		{
@@ -243,7 +242,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#2afd00"
+				"foreground": "#15dfd5"
 			}
 		},
 		{
@@ -253,7 +252,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#9dff00"
+				"foreground": "#a10099" /* métodos  */
 			}
 		},
 		{
@@ -283,7 +282,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#81b7d9"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -294,7 +293,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#e5ff00"
+				"foreground": "#ff00b3"
 			}
 		},
 		{
@@ -303,7 +302,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#c2f3ff"
+				"foreground": "#ff00c8" 
 			}
 		},
 		{
@@ -321,7 +320,7 @@
 				"markup.inserted"
 			],
 			"settings": {
-				"foreground": "#99ff00"
+				"foreground": "#f5afef"
 			}
 		},
 		{
