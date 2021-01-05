@@ -2,22 +2,22 @@
 	"name": "DanteTheme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#20212b",
+		"editor.background": "#1a1c20",
 		"editor.foreground": "#d8ebfc",
-		"activityBarBadge.background": "#fc686f",
-		"terminal.background": "#20252e",
-		"terminal.foreground": "#e1f4f3",
+		"activityBarBadge.background": "#ef6c57",
+		"terminal.background": "#0e1013",
+		"terminal.foreground": "#d8ebfc",
 		/* Activity Bar */
-		"activityBar.background": "#1a1a1b",
-		"activityBar.inactiveForeground": "#e1f4f3",
-		"activityBar.foreground": "#ff979ca8",
-		"activityBar.activeBorder": "#fc686f",
-		"activityBar.activeBackground": "#fc686f13",
+		"activityBar.background": "#1a1c20",
+		"activityBar.inactiveForeground": "#d8ebfc",
+		"activityBar.foreground": "#c94b38",
+		"activityBar.activeBorder": "#ef6c57",
+		"activityBar.activeBackground": "#07060634",
 		/* SideBar */
-		"sideBar.background": "#1b1f24",
-		"sideBar.foreground": "#fffcfc",
-		"sideBarTitle.foreground": "#fc686f",
-		"sideBarSectionHeader.background": "#455d7a",
+		"sideBar.background": "#0e1013",
+		"sideBar.foreground": "#d8ebfc",
+		"sideBarTitle.foreground": "#ef6c57",
+		"sideBarSectionHeader.background": "#323643",
 		/* EditorGroup */
 		"editorGroup.border": "#fc686f",
 		"editorGroup.dropBackground": "#4ea8de",
@@ -55,7 +55,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#8f9192"
+				"foreground": "#9dab86"
 			}
 		},
 		{
@@ -115,7 +115,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#0400ff" /* Aspas, aspas duplas, colchetes, parenteses, chaves, return, from, import  */
+				"foreground": "#bbbfca" /* Aspas, aspas duplas, colchetes, parenteses, chaves, return, from, import  */
 			}
 		},
 		{
@@ -139,7 +139,8 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#ff00b3" /* Arquivo dockerfile, funções  */
+				"fontStyle": "bold",
+				"foreground": "#fffdc1" /* Arquivo dockerfile, funções  */
 			}
 		},
 		{
@@ -190,8 +191,8 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"fontStyle": "italic bold",
-				"foreground": "#00b7ff" /* Primeiro parâmetro de objeto, conteudo do docker */
+				"fontStyle": "italic",
+				"foreground": "#ea2c62" /* Primeiro parâmetro de objeto, conteudo do docker, comentários */
 			}
 		},
 		{
@@ -242,7 +243,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#15dfd5"
+				"foreground": "#fa00d0"
 			}
 		},
 		{
@@ -302,7 +303,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#ff00c8" 
+				"foreground": "#ff00c8"
 			}
 		},
 		{
@@ -379,7 +380,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF"
+				"foreground": "#2fec00"
 			}
 		},
 		{
