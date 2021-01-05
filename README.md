@@ -7,6 +7,7 @@ Tema ainda em construção.
 
 # Cores 
 
-Azul = #28abb9 (Parâmetros)
-Vermelho claro = #ee6f57 (String)
-
+- ![#f03c15](https://via.placeholder.com/15/1a1c20/000000?text=+) `#1a1c20`
+- ![#c5f015](https://via.placeholder.com/15/ef6c57/000000?text=+) `#ef6c57`
+- ![#1589F0](https://via.placeholder.com/15/c94b38/000000?text=+) `#c94b38`
+- ![#1589F0](https://via.placeholder.com/15/d8ebfc/000000?text=+) `#d8ebfc`
