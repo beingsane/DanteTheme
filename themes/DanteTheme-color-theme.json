@@ -133,13 +133,21 @@
 			"name": "Function, Special Method",
 			"scope": [
 				"entity.name.function",
-				"meta.function-call",
 				"variable.function",
 				"support.function",
 				"keyword.other.special-method"
 			],
 			"settings": {
 				"fontStyle": "bold",
+				"foreground": "#fa163f" /* Arquivo dockerfile, funções  */
+			}
+		},
+		{
+			"name": "Meta funtion",
+			"scope": [
+				"meta.function-call",
+			],
+			"settings": {
 				"foreground": "#fa163f" /* Arquivo dockerfile, funções  */
 			}
 		},
@@ -170,13 +178,22 @@
 				"support.constant",
 				"constant.character",
 				"constant.escape",
-				"variable.parameter",
 				"keyword.other.unit",
 				"keyword.other"
 			],
 			"settings": {
-				"fontStyle": "italic underline bold",
-				"foreground": "#5c73f6" /* Boleanos, constantes, parâmetros  */
+				"fontStyle": "underline",
+				"foreground": "#34ace0" /* Boleanos, constantes, parâmetros  */
+			}
+		},
+		{
+			"name": "Parameter variables",
+			"scope": [
+				"variable.parameter",
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#32ff7e" /* Boleanos, constantes, parâmetros  */
 			}
 		},
 		{
