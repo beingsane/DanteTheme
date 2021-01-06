@@ -6,7 +6,7 @@ Tema ainda em construção.
 
 
 # Cores 
-
+- ![#f03c15](https://via.placeholder.com/15/060708/000000?text=+) `#060708`
 - ![#f03c15](https://via.placeholder.com/15/1a1c20/000000?text=+) `#1a1c20`
 - ![#f03c15](https://via.placeholder.com/15/323643/000000?text=+) `#323643`
 - ![#1589F0](https://via.placeholder.com/15/c94b38/000000?text=+) `#c94b38`

@@ -8,7 +8,7 @@
 		"terminal.background": "#0e1013",
 		"terminal.foreground": "#d8ebfc",
 		/* Activity Bar */
-		"activityBar.background": "#1a1c20",
+		"activityBar.background": "#060708",
 		"activityBar.inactiveForeground": "#d8ebfc",
 		"activityBar.foreground": "#c94b38",
 		"activityBar.activeBorder": "#ef6c57",
@@ -32,15 +32,15 @@
 		"editor.selectionBackground": "#51adcf6c",
 		"editor.selectionHighlightBackground": "#50d88f56",
 		/* Status bar colors */
-		"statusBar.background": "#3bceac",
-		"statusBar.foreground": "#2d3142",
-		"statusBar.debuggingBackground": "#2d3142",
-		"statusBar.debuggingForeground": "#3bceac",
-		"statusBarItem.activeBackground": "#358b77",
-		"statusBarItem.hoverBackground": "#358b77",
+		"statusBar.background": "#060708",
+		"statusBar.foreground": "#fff",
+		"statusBar.debuggingBackground": "#ef6c57",
+		"statusBar.debuggingForeground": "#fff",
+		"statusBarItem.activeBackground": "#50d890",
+		"statusBarItem.hoverBackground": "#ef6c57",
 		"statusBarItem.prominentBackground": "#358b77",
-		"statusBarItem.remoteForeground": "#3bceac",
-		"statusBarItem.remoteBackground": "#2d3142",
+		"statusBarItem.remoteForeground": "#fff",
+		"statusBarItem.remoteBackground": "#ef6c57",
 	},
 	"tokenColors": [
 		{
