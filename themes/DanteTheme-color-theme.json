@@ -51,7 +51,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#9dab86"
+				"foreground": "#4b5d67"
 			}
 		},
 		{
@@ -61,7 +61,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#fff1f1"
+				"foreground": "#ffdc34"
 			}
 		},
 		{
@@ -70,7 +70,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#ffdc34"
 			}
 		},
 		{
@@ -80,7 +80,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#53ff9b"
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -91,7 +91,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#12cad6"
 			}
 		},
 		{
@@ -111,7 +111,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#bbbfca" /* Aspas, aspas duplas, colchetes, parenteses, chaves, return, from, import  */
+				"foreground": "#ffd271" /* Aspas, aspas duplas, colchetes, parenteses, chaves, return, from, import  */
 			}
 		},
 		{
@@ -122,7 +122,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#33ff00" /* Arquivos docker-compose, travis */
+				"foreground": "#ffd271" /* Arquivos docker-compose, travis */
 			}
 		},
 		{
@@ -136,7 +136,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#fffdc1" /* Arquivo dockerfile, funções  */
+				"foreground": "#fa163f" /* Arquivo dockerfile, funções  */
 			}
 		},
 		{
@@ -145,7 +145,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#9e0000"
+				"foreground": "#21bf73"
 			}
 		},
 		{
@@ -155,7 +155,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#ff7b00"
+				"foreground": "#00fd15"
 			}
 		},
 		{
@@ -171,8 +171,8 @@
 				"keyword.other"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#ffe600" /* Boleanos, constantes, parâmetros  */
+				"fontStyle": "italic underline bold",
+				"foreground": "#5c73f6" /* Boleanos, constantes, parâmetros  */
 			}
 		},
 		{
@@ -180,15 +180,24 @@
 			"scope": [
 				"string",
 				"constant.other.symbol",
-				"constant.other.key",
+				"constant.other.key"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#b8e9c0" /* Primeiro parâmetro de objeto, conteudo do docker, comentários */
+			}
+		},
+		{
+			"name": "String, Symbols, Inherited Class, Markup Heading",
+			"scope": [
 				"entity.other.inherited-class",
 				"markup.heading",
 				"markup.inserted.git_gutter",
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#ea2c62" /* Primeiro parâmetro de objeto, conteudo do docker, comentários */
+				"fontStyle": "bold",
+				"foreground": "#5c73f6" /* Primeiro parâmetro de objeto, conteudo do docker, comentários */
 			}
 		},
 		{
@@ -204,7 +213,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#15ff00" /* Nome da classe */
+				"foreground": "#fa163f" /* Nome da classe */
 			}
 		},
 		{
