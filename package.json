@@ -16,12 +16,10 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "DanteTheme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/DanteTheme-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "DanteTheme",
+            "uiTheme": "vs-dark",
+            "path": "./themes/DanteTheme-color-theme.json"
+        }]
     }
 }
