@@ -63,8 +63,8 @@
 
 		"editorGroup.dropBackground": "#64a2b642",
 
-		"tab.activeBackground": "#4a4a48",
-		"tab.inactiveBackground": "#181817",
+		"tab.activeBackground": "#181817",
+		"tab.inactiveBackground": "#4a4a48",
 		"tab.inactiveForeground": "#fff", 
 
 		"progressBar.background": "#529eab",
@@ -108,19 +108,19 @@
 
 		"terminal.ansiBlack": "#fff",
 		"terminal.ansiRed": "#6fa571",
-		"terminal.ansiGreen": "#da3a24",
+		"terminal.ansiGreen": "#15ff00",
 		"terminal.ansiYellow": "#f92672", // hue shifted #A6E22E
 		"terminal.ansiBlue": "#0f919f", // hue shifted #AE81FF
 		"terminal.ansiMagenta": "#AE81FF",
 		"terminal.ansiCyan": "#66D9EF",
 		"terminal.ansiWhite": "#66D9EF",
-		"terminal.ansiBrightBlack": "#00ffdd",
-		"terminal.ansiBrightRed": "#66D9EF",
+		"terminal.ansiBrightBlack": "#75715E",
+		"terminal.ansiBrightRed": "#2bff00",
 		"terminal.ansiBrightGreen": "#A6E22E",
 		"terminal.ansiBrightYellow": "#e2e22e", // hue shifted #A6E22E
 		"terminal.ansiBrightBlue": "#819aff", // hue shifted #AE81FF
 		"terminal.ansiBrightMagenta": "#AE81FF",
-		"terminal.ansiBrightCyan": "#66D9EF",
+		"terminal.ansiBrightCyan": "#ef66d1",
 		"terminal.ansiBrightWhite": "#ff0000"
 	},
 	"tokenColors": [
