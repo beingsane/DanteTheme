@@ -126,8 +126,7 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"background": "#272822",
-				"foreground": "#F8F8F2"
+				"foreground": "#ffff00"
 			}
 		},
 		{
@@ -136,22 +135,21 @@
 				"source.groovy.embedded"
 			],
 			"settings": {
-				"background": "#272822",
-				"foreground": "#F8F8F2"
+				"foreground": "#1900ff"
 			}
 		},
 		{
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#75715E"
+				"foreground": "#898984"
 			}
 		},
 		{
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#E6DB74"
+				"foreground": "#ff7a68"
 			}
 		},
 		{
@@ -161,7 +159,7 @@
 				"punctuation.section.embedded"
 			],
 			"settings": {
-				"foreground": "#F92672"
+				"foreground": "#0051ff"
 			}
 		},
 		{
@@ -170,21 +168,21 @@
 				"meta.template.expression"
 			],
 			"settings": {
-				"foreground": "#F8F8F2"
+				"foreground": "#0051ff"
 			}
 		},
 		{
 			"name": "Built-in constant",
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#6ab3aa"
 			}
 		},
 		{
 			"name": "User-defined constant",
 			"scope": "constant.character, constant.other",
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#fbd964"
 			}
 		},
 		{
@@ -192,14 +190,14 @@
 			"scope": "numeric-suffix",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#66D9EF"
+				"foreground": "#0004fa"
 			}
 		},
 		{
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#cd316e"
 			}
 		},
 		{
@@ -207,7 +205,7 @@
 			"scope": "variable",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#F8F8F2"
+				"foreground": "#f2f3cb"
 			}
 		},
 		{
@@ -215,7 +213,7 @@
 			"scope": "punctuation.tilde",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#A6E22E"
+				"foreground": "#0004ff"
 			}
 		},
 		{
@@ -223,7 +221,7 @@
 			"scope": "punctuation.squarebracket-attribute",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#F92672"
+				"foreground": "#0004ff"
 			}
 		},
 		{
@@ -231,7 +229,7 @@
 			"scope": "keyword.type",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#66D9EF"
+				"foreground": "#ff5100"
 			}
 		},
 		{
@@ -239,7 +237,7 @@
 			"scope": "keyword",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#F92672"
+				"foreground": "#b1ddf6"
 			}
 		},
 		{
@@ -247,7 +245,7 @@
 			"scope": "keyword.other.class",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#66D9EF"
+				"foreground": "#d82600"
 			}
 		},
 		{

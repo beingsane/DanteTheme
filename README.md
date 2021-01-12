@@ -5,5 +5,5 @@ Esse tema foi feito especialmente para mim, então não espere que você goste. 
 
 ## Paleta de cores
 
-- ![#181913](https://via.placeholder.com/15/181913/000000?text=+) `#181913`
-
+- ![#181913](https://via.placeholder.com/15/181913/000000?text=+) `#181913` 
+- ![#898984](https://via.placeholder.com/15/898984/000000?text=+) `#898984 Comentários` 
