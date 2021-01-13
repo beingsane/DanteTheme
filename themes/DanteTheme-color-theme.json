@@ -108,14 +108,14 @@
 
 		"terminal.ansiBlack": "#fff",
 		"terminal.ansiRed": "#6fa571",
-		"terminal.ansiGreen": "#15ff00",
+		"terminal.ansiGreen": "#2bff00",
 		"terminal.ansiYellow": "#f92672", // hue shifted #A6E22E
 		"terminal.ansiBlue": "#0f919f", // hue shifted #AE81FF
 		"terminal.ansiMagenta": "#AE81FF",
 		"terminal.ansiCyan": "#66D9EF",
 		"terminal.ansiWhite": "#66D9EF",
 		"terminal.ansiBrightBlack": "#75715E",
-		"terminal.ansiBrightRed": "#2bff00",
+		"terminal.ansiBrightRed": "#b81c1c",
 		"terminal.ansiBrightGreen": "#A6E22E",
 		"terminal.ansiBrightYellow": "#e2e22e", // hue shifted #A6E22E
 		"terminal.ansiBrightBlue": "#819aff", // hue shifted #AE81FF
@@ -150,6 +150,13 @@
 			"scope": "string",
 			"settings": {
 				"foreground": "#ff7a68"
+			}
+		},
+		{
+			"name": "Doc String",
+			"scope": "string.quoted.docstring.multi.python",
+			"settings": {
+				"foreground": "#898984"
 			}
 		},
 		{
