@@ -3,7 +3,7 @@
     "displayName": "DanteTheme",
     "description": "Theme based on Divine Comedy",
     "publisher": "DanteTheme",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "private": true,
     "repository": {
         "type": "git",
@@ -15,6 +15,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [{
             "label": "DanteTheme",
