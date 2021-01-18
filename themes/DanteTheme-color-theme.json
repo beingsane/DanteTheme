@@ -236,7 +236,7 @@
 			"scope": "keyword.type",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#ff5100"
+				"foreground": "#f700ff"
 			}
 		},
 		{
@@ -252,7 +252,7 @@
 			"scope": "keyword.other.class",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#d82600"
+				"foreground": "#ff00c8"
 			}
 		},
 		{
@@ -260,7 +260,7 @@
 			"scope": "storage",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#F92672"
+				"foreground": "#00ffb3"
 			}
 		},
 		{
@@ -268,7 +268,7 @@
 			"scope": "meta.function-call",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#66D9EF"
+				"foreground": "#34a3f5"
 			}
 		},
 		{
@@ -284,14 +284,15 @@
 			"scope": "storage.type.numeric",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#66D9EF"
+				"foreground": "#ff0080"
 			}
 		},
 		{
 			"name": "Class name",
 			"scope": "entity.name.type, entity.name.class",
 			"settings": {
-				"foreground": "#A6E22E"
+				"fontStyle": "bold",
+				"foreground": "#54d759"
 			}
 		},
 		{
@@ -306,9 +307,10 @@
 			"name": "Class name",
 			"scope": "entity.name.type.namespace",
 			"settings": {
-				"foreground": "#FFFFFF"
+				"foreground": "#0099ff"
 			}
 		},
+		/* Aqui */
 		{
 			"name": "Inherited class",
 			"scope": "entity.other.inherited-class",
